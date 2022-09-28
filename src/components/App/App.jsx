@@ -30,7 +30,6 @@ const App = () => {
   };
 
   const stateKeys = Object.keys(state);
-
   return (
     <>
       <Global styles={GlobalStyles} />
